@@ -1,0 +1,42 @@
+SmartPricingTool
+├── config.py
+├── docs
+├── files
+│   ├── 1_main
+│   │   └── prod.csv
+│   ├── 2_prices
+│   ├── 3_konk
+│   │   └── oled.xlsx
+│   └── 4_out
+├── main.py
+├── requirements.txt
+├── scripts
+├── src
+│   ├── api
+│   │   └── data_integration.py
+│   ├── data_processing
+│   │   └── data_processor.py
+│   ├── database
+│   │   ├── __pycache__
+│   │   │   └── database_manager.cpython-310.pyc
+│   │   ├── database_manager.py
+│   │   └── db
+│   │       └── db.sqlite
+│   ├── img
+│   │   ├── add_icon.png
+│   │   ├── delete_icon.png
+│   │   ├── price_icon.png
+│   │   └── save_icon.png
+│   ├── ui
+│   │   ├── __pycache__
+│   │   │   ├── main_window.cpython-310.pyc
+│   │   │   └── price_manager.cpython-310.pyc
+│   │   ├── main_window.py
+│   │   ├── price_data_manager.py
+│   │   └── price_manager.py
+│   └── utils
+│       ├── encoding_utils.py
+│       └── utilities.py
+└── tests
+    ├── integration
+    └── units

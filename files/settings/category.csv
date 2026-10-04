@@ -1,0 +1,43 @@
+folder_code;bitr_id;folder_name;bitr_code;bitr_url;parent_folder;parent_code
+"127";"127";"Аксессуары";"qcat127";"aksessuary";;
+"128";"128";"Разветвители прикуривателя";"qcat128";"razvetviteli-prikurivatelja";"Аксессуары";"127"
+"129";"129";"Автомобильные держатели";"qcat129";"avtomobilnye-derzhateli";"Аксессуары";"127"
+"130";"130";"FM-модуляторы";"qcat130";"fm-moduljatory";;
+"131";"131";"Автомагнитолы";"qcat131";"avtomagnitoly";;
+"132";"132";"Видеорегистраторы";"qcat132";"avtomobilnye-videoregistratory";;
+"133";"133";"GPS-навигаторы";"qcat133";"gps-navigatory-all";;
+"134";"134";"Навигаторы";"qcat134";"gps-navigatory";"GPS-навигаторы";"133"
+"135";"135";"Портативные телевизоры";"qcat135";"avtomobilnye-televizory";;
+"136";"136";"Портативные DVD";"qcat136";"portativnye-dvd";;
+"137";"137";"Эхолоты";"qcat137";"ekholoty";;
+"138";"138";"Велокомпьютеры";"qcat138";"velokompjutery";;
+"139";"139";"Туристические навигаторы";"qcat139";"turisticheskie-navigatory";"GPS-навигаторы";"133"
+"140";"140";"Умные весы";"qcat140";"umnye-vesy";;
+"141";"141";"Детские смарт-часы и браслеты";"qcat141";"umnye-chasy-i-braslety";;
+"142";"142";"Экшен-камеры";"qcat142";"ekshen-kamery";;
+"143";"143";"Камеры заднего вида";"qcat143";"parkovochnye-radary-i-kamery-zadnego-vida";;
+"144";"144";"Зарядные устройства";"qcat144";"zarjadnye-ustrojstva";"Аксессуары";"127"
+"145";"145";"Радар-детекторы";"qcat145";"radar-detektory";;
+"146";"146";"Портативные зарядные устройства";"qcat146";"portativnye-zarjadnye-ustrojstva";"Аксессуары";"127"
+"147";"147";"Карты памяти";"qcat147";"karty-pamyati";"Аксессуары";"127"
+"179";"179";"Автомобильные компрессоры";"qcat179";"avtomobilnye-kompressory";;
+"180";"180";"Автомобильные инверторы";"qcat180";"avtomobilnye-invertory";;
+"181";"181";"Алкотестеры";"qcat181";"alkotestery";"Аксессуары";"127"
+"182";"182";"Пуско-зарядные устройства";"qcat182";"pusko-zaryadnye-ustroystva";"Аксессуары";"127"
+"183";"183";"Автосканер";"qcat183";"avtoskaner";"Аксессуары";"127"
+"185";"185";"Автопылесосы";"qcat185";"car-vacuum-cleaners";"Пылесосы";"186"
+"186";"186";"Пылесосы";"qcat186";"pylesosy";;
+"193";"193";"Вертикальные пылесосы";"qcat193";"vertikalnye-pylesosy";"Пылесосы";"186"
+"194";"194";"Робот пылесосы";"qcat194";"robot-pylesosy";"Пылесосы";"186"
+"203";"203";"Видеоскопы, эндоскопы";"qcat203";"videoskopy-endoskopy";;
+"205";"205";"Электробритвы";"qcat205";"elektrobritvy";;
+"217";"217";"Для детских смарт-часов";"qcat217";"dlya-detskikh-smart-chasov";"Аксессуары";"127"
+"242";"242";"Проекторы";"qcat242";"proektory";;
+"246";"246";"Для проекторов и TV Box";"qcat246";"dlya-proektorov-i-tv-box";"Аксессуары";"127"
+"247";"247";"Умный дом";"qcat247";"umnyy-dom";;
+"249";"249";"Настольные лампы";"qcat249";"nastolnye-lampy";"Умный дом";"247"
+"250";"250";"Лампочки";"qcat250";"lampochki";"Умный дом";"247"
+"251";"251";"Ночники";"qcat251";"nochniki";"Умный дом";"247"
+"257";"257";"Smart TV-приставки и медиаплееры";"qcat257";"mediapleery-i-tv-pristavki";;
+"260";"260";"Беспроводные и портативные колонки";"qcat260";"besprovodnye-i-portativnye-kolonki";;
+"265";"265";"Аксессуары";"qcat265";"aksessuary-tv";"Smart TV-приставки и медиаплееры";"257"

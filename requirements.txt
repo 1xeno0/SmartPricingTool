@@ -1,0 +1,10 @@
+PyQt5
+pandas
+requests
+selenium
+forex-python
+chardet
+openpyxl
+aiohttp
+asyncio
+transliterate
